@@ -1,7 +1,11 @@
 ## Eje1. LA COMPUTADORA
 #### SD1. ¿Que son las computadoras?
 ###### Del concepto al Elemanto. ¿Que es y que no es una computadora? 
-_Definición._ 
+
+¿Que tiene que tener una computadora para se conciderada como tal?. 
+
+_Definición._
+
 _Diagrama de Von Neuman._ 
 ###### Un poco de Historia
 ###### Propaganda!! Identificación de componentes. 
