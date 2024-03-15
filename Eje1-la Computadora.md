@@ -5,6 +5,11 @@
 ¿Que tiene que tener una computadora para se conciderada como tal?. 
 
 _Definición._
+Una Computadora: Es un dispositivo eletrónico, constituido por componentes de _hardware_ y _software_, que **recibe** _infromación_ la **procesa** y **devuelve** nueva _información_.
+
+A que se llama Hardware??
+A que se llama Software??
+
 
 _Diagrama de Von Neuman._ 
 ###### Un poco de Historia
