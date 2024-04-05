@@ -1,6 +1,6 @@
 ## Eje1. LA COMPUTADORA
 #### SD1. ¿Que son las computadoras?
-###### Del concepto al Elemanto. ¿Que es y que no es una computadora? 
+###### Del concepto al Elemento. ¿Que es y que no es una computadora? 
 
 _Definición._
 Una Computadora: Es un dispositivo electrónico, constituido por componentes de _hardware_ y _software_, que **recibe** _infromación_ la **procesa** y **devuelve** nueva _información_.
