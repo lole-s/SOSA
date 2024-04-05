@@ -50,9 +50,9 @@ Una computadora está formada por una serie de componentes interconectados, cada
 
 Sí, existe comunicación en ambos sentidos. La CPU lee datos de la memoria para procesarlos y también escribe allí algunos resultados que producen sus cómputos.
 
-##### Arquitectura Von NeumanDiagrama de Von Neumann.
+##### Arquitectura Von Neumann.
 
-![image](https://github.com/lole-/SOSA/assets/84929029/c6ff4ad1-93d1-4378-bbef-1328f07d83cd)
+![image](https://github.com/lole-s/SOSA/assets/84929029/813158cb-1d64-46de-96c4-5b9597720d51)
 
 En 1945, el matemático de origen austrohúngaro John von Neumann presentó un modelo conceptual de arquitectura de computadoras, cuyo diseño sigue vigente en las computadoras modernas. En este modelo, conocido como arquitectura de von Neumann, una computadora está compuesta   por una unidad central de procesamiento –que se encarga de ejecutar las instrucciones de los programas–, una memoria –en la que se almacenan los datos y los programas–, y dispositivos de entrada y salida que permiten el ingreso y egreso de datos.
 
