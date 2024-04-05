@@ -13,13 +13,13 @@ https://drive.google.com/file/d/1BEhQwSujvIoIn8mIO02ALGobeBMNCKGM/view?usp=drive
 
 ###### A que se llama Hardware??
 
-El hardware son los componentes físicos (tangibles) de la computadora un ordenador, como la placa base, el procesador, la memoria, las unidades de almacenamiento y otros dispositivos. Es el hardware que aloja y soporta a los componentes el software. El hardware también puede incluir dispositivos externos de entrada/salida como teclados, ratones, monitores, impresoras y altavoces.
+El hardware son los componentes físicos (tangibles) de la computadora, como la placa base, el procesador, la memoria, las unidades de almacenamiento y otros dispositivos. El hardware aloja y soporta a los componentes el software. El hardware también puede incluir dispositivos externos de entrada/salida como teclados, ratones, monitores, impresoras y altavoces.
 
 ###### A que se llama Software?? 
 
-El software, por otro lado, se refiere a los programas informáticos y las instrucciones que se ejecutan en la computadora. 
+El software son los programas, los datos, archivos y las instrucciones que se ejecutan en la computadora. 
 
-Algunas diferencias clave entre hardware y software son:
+Algunas **diferencias** entre hardware y software son:
 
 * El hardware es tangible y puede tocarse y manipularse físicamente, mientras que el software es intangible y no puede ser tocado.
 * El hardware es un componente físico de la computadora y no puede ser modificado sin cambiar el componente físico, mientras que el software puede ser instalado, actualizado o eliminado sin necesidad de cambiar el hardware.
