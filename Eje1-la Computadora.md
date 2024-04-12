@@ -56,10 +56,46 @@ Sí, existe comunicación en ambos sentidos. La CPU lee datos de la memoria para
 
 En 1945, el matemático de origen austrohúngaro John von Neumann presentó un modelo conceptual de arquitectura de computadoras, cuyo diseño sigue vigente en las computadoras modernas. En este modelo, conocido como arquitectura de von Neumann, una computadora está compuesta   por una unidad central de procesamiento –que se encarga de ejecutar las instrucciones de los programas–, una memoria –en la que se almacenan los datos y los programas–, y dispositivos de entrada y salida que permiten el ingreso y egreso de datos.
 
+##### perisféricos. intro
+https://drive.google.com/file/d/176YhNT8OOZeGTdwYKZjcrjs8-Zi7feQb/view?usp=sharing
+
+##### perisféricos. 2
+https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=sharing
+
+###### VIDEO REPASO PARA TODA EL EJE
 https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
+
+#### Interior de las computadoras
+https://www.youtube.com/watch?v=bu3ToO5mJU8&list=PL0IS0YyQ-bEm_e7ZIujbynmekXWrGIpNR
+
+#### Memoria RAM
+https://www.youtube.com/watch?v=Sq3OjI3tVIM
 
 #### SD5 
 ###### Un poco de Historia
+
+¿En qué año creen que apareció la primer computadora?
+
+¿Por qué surgió el uso de computadoras? 
+
+línea de tiempo. – generalidades 
+
+video.
+
+1- Ver los videos "Historias de las Computadoras" y "La historia y la evolución de los computadores"
+"Historias de las Computadoras" 
+
+https://www.youtube.com/watch?v=bxPmnwzwxAA
+
+
+"La historia y la evolución de los computadores"
+
+https://www.youtube.com/watch?v=lsAeTXNQyIA
+
+Línea de tiempo. – computadoras. 
+
+generaciones de computadoras.
+
 
 #### SD6  Conocer una computadora por dentro.
 ###### El CPU - partes externas
