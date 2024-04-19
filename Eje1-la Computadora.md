@@ -78,23 +78,20 @@ https://www.youtube.com/watch?v=Sq3OjI3tVIM
 
 ¿Por qué surgió el uso de computadoras? 
 
-línea de tiempo. – generalidades 
+Línea de tiempo. – generalidades 
 
 video.
 
 1- Ver los videos "Historias de las Computadoras" y "La historia y la evolución de los computadores"
-"Historias de las Computadoras" 
 
-https://www.youtube.com/watch?v=bxPmnwzwxAA
+[Historias de las Computadoras](https://drive.google.com/file/d/1IEXe6n_R7cOBNp3M4gA5B2UH2tBM8UCw/view?usp=drive_link) 
+
+[La historia y la evolución de los computadores](https://drive.google.com/file/d/1IENQM-0L7umZDvANUVcDUdYoKaWE56zp/view?usp=drive_link)
+
+[Línea de tiempo. – computadoras](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
 
 
-"La historia y la evolución de los computadores"
-
-https://www.youtube.com/watch?v=lsAeTXNQyIA
-
-Línea de tiempo. – computadoras. 
-
-generaciones de computadoras.
+[Generaciones de computadoras](https://drive.google.com/file/d/1IJCR6-sajF12qlg8rfPrX4VEefR34TFU/view?usp=drive_link)
 
 
 #### SD6  Conocer una computadora por dentro.
