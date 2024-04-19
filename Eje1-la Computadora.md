@@ -62,27 +62,17 @@ https://drive.google.com/file/d/176YhNT8OOZeGTdwYKZjcrjs8-Zi7feQb/view?usp=shari
 ##### perisféricos. 2
 https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=sharing
 
-###### VIDEO REPASO PARA TODA EL EJE
-https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
-
-#### Interior de las computadoras
-https://www.youtube.com/watch?v=bu3ToO5mJU8&list=PL0IS0YyQ-bEm_e7ZIujbynmekXWrGIpNR
-
-#### Memoria RAM
-https://www.youtube.com/watch?v=Sq3OjI3tVIM
-
 #### SD5 
 ###### Un poco de Historia
 
-¿En qué año creen que apareció la primer computadora?
+**¿En qué año creen que apareció la primer computadora?**
 
-¿Por qué surgió el uso de computadoras? 
+**¿Por qué surgió el uso de computadoras?** 
 
-Línea de tiempo. – generalidades 
+[Línea de tiempo. – Generalidades](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
 
-video.
 
-1- Ver los videos "Historias de las Computadoras" y "La historia y la evolución de los computadores"
+###### 1- Ver los videos "Historias de las Computadoras" y "La historia y la evolución de los computadores"
 
 [Historias de las Computadoras](https://drive.google.com/file/d/1IEXe6n_R7cOBNp3M4gA5B2UH2tBM8UCw/view?usp=drive_link) 
 
@@ -90,11 +80,18 @@ video.
 
 [Línea de tiempo. – computadoras](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
 
-
 [Generaciones de computadoras](https://drive.google.com/file/d/1IJCR6-sajF12qlg8rfPrX4VEefR34TFU/view?usp=drive_link)
-
 
 #### SD6  Conocer una computadora por dentro.
 ###### El CPU - partes externas
 ###### El CPU - partes internas
 ###### Propaganda!! Identificación de componentes. 
+
+#### Interior de las computadoras
+https://www.youtube.com/watch?v=bu3ToO5mJU8&list=PL0IS0YyQ-bEm_e7ZIujbynmekXWrGIpNR
+
+#### Memoria RAM
+https://www.youtube.com/watch?v=Sq3OjI3tVIM
+
+###### VIDEO REPASO PARA TODO EL EJE
+https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
