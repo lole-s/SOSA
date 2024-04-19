@@ -80,6 +80,8 @@ https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=shari
 
 [Línea de tiempo. – computadoras](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
 
+![image](https://github.com/lole-s/SOSA/assets/84929029/2ce51fbb-f9b5-4685-a489-c93e909b4ae1)
+
 [Generaciones de computadoras](https://drive.google.com/file/d/1IJCR6-sajF12qlg8rfPrX4VEefR34TFU/view?usp=drive_link)
 
 #### SD6  Conocer una computadora por dentro.
