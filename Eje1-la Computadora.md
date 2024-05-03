@@ -30,7 +30,7 @@ Algunas **diferencias** entre hardware y software son:
 ###### ¿Que tiene que tener una computadora para se conciderada como tal?. 
 
 _DEFINICIÓN AMPLIADA DE COMPUTADORA_
-“Una computadora es un dispositivo electrónico, constituido por componentes de _hardware_ y _software_,  que recibe información, la **procesa** y **genera o devuelve** nueva _información_; usa una **memoria principal** para almacenar los datos y una **unidad central de procesamiento** (CPU) para realizar cálculos.”
+>> “Una computadora es un dispositivo electrónico, constituido por componentes de _hardware_ y _software_,  que recibe información, la **procesa** y **genera o devuelve** nueva _información_; usa una **memoria principal** para almacenar los datos y una **unidad central de procesamiento** (CPU) para realizar cálculos.” 
 
 **“¿Cómo hace una computadora para, a partir de una entrada, generar una salida?”.**
 
