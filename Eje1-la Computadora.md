@@ -120,6 +120,7 @@ https://www.youtube.com/watch?v=Sq3OjI3tVIM
 ###### VIDEO REPASO PARA TODO EL EJE
 https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
 
+#### DISPOSITIVOS DE ALMACENAMIENTO
 
 
 #### EVALUACIÓN EJE 1 (17/5) - La Computadora - Temas
@@ -130,6 +131,10 @@ https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive
 * Diagrama Von Neumann?
   * dispositivos de entrada? 3 ejemplos?
   * dispositivos de salida? 3 ejemplos?
-* Memoria Principal RAM. Definición
-* Microprocesador. Definición
+  * dispositivos de almacenamiento?. 3 ejemplos?
+* Memoria Principal RAM. Definición. En que unidad se mide su capacidad?
+* Microprocesador. Definición. En que unidad se mide su velocidad?
+* Que es un bit?.
+* Que es un byte?
 
+  
