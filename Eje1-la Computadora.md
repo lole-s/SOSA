@@ -99,7 +99,7 @@ https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive
 #### SD 7 
 .,m.,m.,
 
-#### EVALUACIÓN EJE 1 (17/5) - La Computadora - Temas
+#### EVALUACIÓN EJE 1 (7/6) - La Computadora - Temas
 
 * Que es una computadora? ¿Cuales son sus componentes de hardware que debe tener un dispositivos electronico para ser conciderado una computadora?. 
 * A que llamamos Hardware?. 
