@@ -100,17 +100,16 @@ ____
 #### SD 7 
 INFORMACION Y DISPOSITIVOS DE ALMACENAMIENTO
 
-Presentación de la actividad: https://youtu.be/DZA-GfLsM2U
-
 El objetivo de esta actividad que aprendamos cuales son los distintos tipos de dispositivos de almacenamiento, cual es la unidad de medida de la información y como se almacena. 
-La actividad consta de dos partes, en la primer parte vamos a ver el siguiente video, donde se amplían los conceptos que introduje en la presentación de la actividad. 
+La actividad consta de dos partes, en la primer parte vamos a ver el siguiente video: 
 
 https://youtu.be/Qsunfh8DXD0
 
 En la segunda parte deben  leer el apunte que les dejo a continuación, y luego contestar y enviar por mail o subir a la plataforma el cuestionario.
 
 APUNTE: https://drive.google.com/file/d/19P_A5Lp7gAbdbBvQnWTQo8-wAF9ZlwSN
-CUESTIONARIO: https://drive.google.com/file/d/18xQDtR0ftQZiPlW8L9bUA02f1RTov8S4
+
+CUESTIONARIO: 
 
 ____
 #### EVALUACIÓN EJE 1 (7/6) - La Computadora - Temas
