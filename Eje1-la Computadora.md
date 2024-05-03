@@ -56,10 +56,10 @@ Sí, existe comunicación en ambos sentidos. La CPU lee datos de la memoria para
 
 En 1945, el matemático de origen austrohúngaro John von Neumann presentó un modelo conceptual de arquitectura de computadoras, cuyo diseño sigue vigente en las computadoras modernas. En este modelo, conocido como arquitectura de von Neumann, una computadora está compuesta   por una unidad central de procesamiento –que se encarga de ejecutar las instrucciones de los programas–, una memoria –en la que se almacenan los datos y los programas–, y dispositivos de entrada y salida que permiten el ingreso y egreso de datos.
 
-##### perisféricos. intro
+##### Dispositivos de E/S (perisféricos). intro
 https://drive.google.com/file/d/176YhNT8OOZeGTdwYKZjcrjs8-Zi7feQb/view?usp=sharing
 
-##### perisféricos. 2
+##### Dispositivos de E/S (perisféricos). 2
 https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=sharing
 
 #### SD5 
@@ -119,3 +119,17 @@ https://www.youtube.com/watch?v=Sq3OjI3tVIM
 
 ###### VIDEO REPASO PARA TODO EL EJE
 https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
+
+
+
+#### EVALUACIÓN EJE 1 (17/5) - La Computadora - Temas
+
+* Que es una computadora? ¿Cuales son sus componentes de hardware que debe tener un dispositivos electronico para ser conciderado una computadora?. 
+* A que llamamos Hardware?. 
+* A que llamamos Software?
+* Diagrama Von Neumann?
+  * dispositivos de entrada? 3 ejemplos?
+  * dispositivos de salida? 3 ejemplos?
+* Memoria Principal RAM. Definición
+* Microprocesador. Definición
+
