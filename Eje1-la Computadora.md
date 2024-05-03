@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=shari
 
 **¿Por qué surgió el uso de computadoras?** 
 
-[Línea de tiempo. – Generalidades](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
+![image](https://github.com/lole-s/SOSA/assets/84929029/2ce51fbb-f9b5-4685-a489-c93e909b4ae1)
 
 
 ###### 1- Ver los videos "Historias de las Computadoras" y "La historia y la evolución de los computadores"
@@ -77,10 +77,6 @@ https://drive.google.com/file/d/1Kx1zdwitgfANy8mbpDEQRjGF6bHEoR7V/view?usp=shari
 [Historias de las Computadoras](https://drive.google.com/file/d/1IEXe6n_R7cOBNp3M4gA5B2UH2tBM8UCw/view?usp=drive_link) 
 
 [La historia y la evolución de los computadores](https://drive.google.com/file/d/1IENQM-0L7umZDvANUVcDUdYoKaWE56zp/view?usp=drive_link)
-
-[Línea de tiempo. – computadoras](https://docs.google.com/presentation/d/1IzcCLx4ll5Kk2r0eJhkA0fYBGfQKZPPf/edit?usp=drive_link&ouid=117205797234815395270&rtpof=true&sd=true)
-
-![image](https://github.com/lole-s/SOSA/assets/84929029/2ce51fbb-f9b5-4685-a489-c93e909b4ae1)
 
 [Generaciones de computadoras](https://drive.google.com/file/d/1IJCR6-sajF12qlg8rfPrX4VEefR34TFU/view?usp=drive_link)
 
