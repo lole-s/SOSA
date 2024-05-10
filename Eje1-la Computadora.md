@@ -104,12 +104,13 @@ El objetivo de esta actividad que aprendamos cuales son los distintos tipos de d
 La actividad consta de dos partes, en la primer parte vamos a ver el siguiente video: 
 
 https://youtu.be/Qsunfh8DXD0
+https://drive.google.com/file/d/1QUMIhtavufzSVuXgcF1liM1vAfOBsRXb/view?usp=drive_link
 
 En la segunda parte deben  leer el apunte que les dejo a continuación, y luego contestar y enviar por mail o subir a la plataforma el cuestionario.
 
-APUNTE: https://drive.google.com/file/d/19P_A5Lp7gAbdbBvQnWTQo8-wAF9ZlwSN
+APUNTE: https://drive.google.com/drive/u/2/search?q=dispositivos%20de%20almacenamiento
 
-CUESTIONARIO: 
+CUESTIONARIO: Completar el cuestionario que les envie por mail y reenviarlo. 
 
 ____
 #### EVALUACIÓN EJE 1 (7/6) - La Computadora - Temas
