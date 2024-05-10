@@ -96,21 +96,38 @@ https://www.youtube.com/watch?v=Sq3OjI3tVIM
 https://drive.google.com/file/d/1ZlipnQ7_z2OLTWL54qkqQ0cDNayGZFIK/view?usp=drive_link
 
 ____
-#### INFORMACIÓN Y DISPOSITIVOS DE ALMACENAMIENTO
-#### SD 7 
-INFORMACION Y DISPOSITIVOS DE ALMACENAMIENTO
 
+#### INFORMACIÓN Y DISPOSITIVOS DE ALMACENAMIENTO
+
+¿Cuánta memoria tiene su computadora? ¿Y su celular? ¿Tiene memoria el celular?
+Cuando escribo un documento en la computadora o bajo una foto/video o instalo un programa, ¿en qué parte de la computadora queda guardado?
+¿Nunca les pasó que un programa les pidiera que guarden sus trabajos, sesiones, juegos, etc. antes de salir? 
+¿Alguna vez escucharon hablar de disco rígido?¿PENDRIVE?¿MicroSD? ¿CD?¿DVD?
+
+¿Dónde se guarda lo que estoy escribiendo en un archivo de texto si todavía no apreté la opción de “guardar”? Y, ¿dónde se guarda ese mismo archivo si le pongo un nombre y aprieto la opción de “guardar”?
+
+La Memoria RAM **no** es un dispositivo de almacenamiento,  es una memoria de trabajo en donde se guarda información de manera temporal, cuando se corta el suministro eléctrico, esa información se pierde, es volátil.
+
+**bit**:  Binary Digit  (es un solo dígito binario, por lo tanto, puede tomar solo uno de dos valores, el 0 o el 1. )  
+**Byte**:  Grupo consecutivo de 8 bits, ejemplo: 01001001
+
+
+#### SD 7 
 El objetivo de esta actividad que aprendamos cuales son los distintos tipos de dispositivos de almacenamiento, cual es la unidad de medida de la información y como se almacena. 
 La actividad consta de dos partes, en la primer parte vamos a ver el siguiente video: 
 
 https://youtu.be/Qsunfh8DXD0
 https://drive.google.com/file/d/1QUMIhtavufzSVuXgcF1liM1vAfOBsRXb/view?usp=drive_link
 
-En la segunda parte deben  leer el apunte que les dejo a continuación, y luego contestar y enviar por mail o subir a la plataforma el cuestionario.
+En la segunda parte deben  leer el apunte que les dejo a continuación, y luego contestar el cuestionario.
 
-APUNTE: https://drive.google.com/drive/u/2/search?q=dispositivos%20de%20almacenamiento
+APUNTE: https://drive.google.com/file/d/16shBtb6nupBE5--NN9Ne_QD0Z8ZKnGER/view?usp=drive_link
 
 CUESTIONARIO: Completar el cuestionario que les envie por mail y reenviarlo. 
+
+____
+#### Jerarquía de memorias
+![image](https://github.com/lole-s/SOSA/assets/84929029/ad8f3b03-7412-4cac-873c-181deaa69234)
 
 ____
 #### EVALUACIÓN EJE 1 (7/6) - La Computadora - Temas
