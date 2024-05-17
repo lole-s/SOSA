@@ -41,6 +41,7 @@ Una computadora está formada por una serie de componentes interconectados, cada
 ![image](https://github.com/lole-s/SOSA/assets/84929029/f63c70b6-1023-408f-9205-dcf47ff1bca9)
 
 ![image](https://github.com/lole-s/SOSA/assets/84929029/4926a6f4-aa9d-4926-a49d-47356248f0cd)
+
 **NOTA: La capacidad del procesador o microprocesador se expresa en Hz (Hertz) o, lo que es lo mismo, en ciclos por segundo.**  
 
 ![image](https://github.com/lole-s/SOSA/assets/84929029/deac862b-3879-4c48-ae62-9a8d519072da)
