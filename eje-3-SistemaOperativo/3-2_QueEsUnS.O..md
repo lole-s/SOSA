@@ -14,10 +14,10 @@ Los propósitos principales de un sistema operativo son:
 ## Componentes del sistema operativo
 
   1. Núcleo (Kernel): Es el corazón del sistema operativo. Gestiona la memoria y el tiempo del procesador.
-	2. Gestor de archivos: Organiza y guarda los archivos en la computadora.
-	3. Gestor de procesos: Controla las aplicaciones que están funcionando.
-	4. Controladores de dispositivos: Ayudan a que la computadora se comunique con dispositivos como impresoras y cámaras.
-	5. Interfaz de usuario: Es lo que ves en la pantalla y con lo que interactúas, como los íconos y ventanas.
+  2. Gestor de archivos: Organiza y guarda los archivos en la computadora.
+  3. Gestor de procesos: Controla las aplicaciones que están funcionando.
+  4. Controladores de dispositivos: Ayudan a que la computadora se comunique con dispositivos como impresoras y cámaras.
+  5. Interfaz de usuario: Es lo que ves en la pantalla y con lo que interactúas, como los íconos y ventanas.
 
 Los software de aplicaciones no son parte el S.O.: Son los programas diseñados para facilitar la realización de tareas específicas (hoja de cálculo, procesador de texto, navegador web, Editor fotográfico, etc).
 
