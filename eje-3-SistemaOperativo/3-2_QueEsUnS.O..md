@@ -25,21 +25,7 @@ Los software de aplicaciones no son parte el S.O.: Son los programas diseñados 
 
 Aquí tienes un diagrama simple para visualizarlo:
 
-+-------------------------+
-| Interfaz 	 | Sw de 	    |
-| de Usuario | Aplicación |
-+-------------------------+
-| Núcleo (Kernel)         |
-|	 Gestor de Procesos     |
-|    Gestor de Archivos	  |
-+-------------------------+
-| Controladores de        |
-| Dispositivos (Drivers)  |
-+-------------------------+
-| Hardware (CPU, Memoria, |
-| Dispositivos)           |
-+-------------------------+
-
+* 	![Image s o](https://github.com/user-attachments/assets/7d6e17a2-886e-4563-82fe-9e334e9561f6)
 
 https://www.youtube.com/watch?v=GrPOLqSF0Ow
 ![laurab_so_pixelnomicon17-18](https://github.com/user-attachments/assets/a89d78bc-16ab-4fe7-929a-60b2fff68c0c)
