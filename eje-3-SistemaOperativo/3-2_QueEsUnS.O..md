@@ -1,6 +1,6 @@
 
 
-#¿Qué es un sistema operativo?
+# ¿Qué es un sistema operativo?
 
 Un sistema operativo es como el jefe de una computadora. Esta compuesto por una serie de *programas* que ayudan a que todos los demás programas ( las aplicaciones de usuario) funcionen bien y se comuniquen con el hardware (las partes físicas de la computadora como el teclado, la pantalla, etc.).
 
