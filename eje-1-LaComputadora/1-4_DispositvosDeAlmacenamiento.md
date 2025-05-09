@@ -13,4 +13,4 @@ Los dispositivos de almacenamiento permiten **guardar grandes volúmenes de info
 
 Conceptualmente, una unidad de almacenamiento es un dispositivo que preserva información de manera prolongada, se utiliza para leer, grabar o guardar datos, y su función principal es guardar grandes volúmenes de información. 
 
-#### La **capacidad de almacenamiento** de una computadora se mide en unidades como bits, bytes, Kilobytes (KB), Megabytes (MB), Gigabytes (GB) y Terabytes (TB). Un **byte** es una agrupación de 8 bits. 
+#### La **capacidad de almacenamiento** de una computadora se mide en unidades como bytes, Kilobytes (KB), Megabytes (MB), Gigabytes (GB) y Terabytes (TB). Un **byte** es una agrupación de 8 bits. 
