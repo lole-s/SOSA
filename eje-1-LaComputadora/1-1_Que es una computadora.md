@@ -133,7 +133,7 @@ ____
 ![image](https://github.com/lole-s/SOSA/assets/84929029/ad8f3b03-7412-4cac-873c-181deaa69234)
 
 ____
-#### EVALUACIÓN EJE 1 (7/6) - La Computadora - Temas
+#### EVALUACIÓN EJE 1 (13/6) - La Computadora - Temas
 
 * Que es una computadora? ¿Cuales son sus componentes de hardware que debe tener un dispositivos electronico para ser conciderado una computadora?. 
 * A que llamamos Hardware?. 
