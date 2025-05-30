@@ -1,7 +1,7 @@
 
 **Resumen/Repaso**
 
-Estos manuales son los primeros materiales escolares sobre Ciencias de la Computación en Argentina, disponibles de forma libre y gratuita. Su objetivo es aportar saberes fundamentales como programación, funcionamiento de computadoras e Internet, e Inteligencia Artificial, que resultan esenciales para comprender el mundo tecnológico actual. Se presentan como una contribución a la enseñanza de las Ciencias de la Computación como disciplina fundamental.
+
 
 1.  **Definición de Computadora:**
     *   Una computadora es un artefacto capaz de ejecutar programas.
