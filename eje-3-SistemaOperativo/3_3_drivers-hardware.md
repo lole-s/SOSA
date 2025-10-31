@@ -25,14 +25,6 @@ Los **drivers son esos traductores** que permiten que el hardware (las partes f�
 
 ---
 
-## 📺 Video Educativo
-
-Mirá este video para entender mejor qué son los drivers:
-
-### Opción 1: Video en Español
-**"¿Qué son los DRIVERS o CONTROLADORES? 🖥️"**  
-[![Video Drivers](https://www.youtube.com/watch?v=VziSxt-m8aQ)
-
 ## 📖 Contenido Teórico
 
 ### 1. ¿Qué son los Drivers?
@@ -210,6 +202,14 @@ Resumen de la Clase
 ---
 
 ## 📚 Recursos Adicionales
+
+## 📺 Video Educativo
+
+Mirá este video para entender mejor qué son los drivers:
+
+**"¿Qué son los DRIVERS o CONTROLADORES? 🖥️"**  
+[![Video Drivers](https://www.youtube.com/watch?v=VziSxt-m8aQ)
+
 
 ### Sitios Web Oficiales de Fabricantes Comunes:
 - **Logitech:** https://www.logitech.com/es-roam/support
