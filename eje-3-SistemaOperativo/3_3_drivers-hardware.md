@@ -208,7 +208,7 @@ Resumen de la Clase
 Mirá este video para entender mejor qué son los drivers:
 
 **"¿Qué son los DRIVERS o CONTROLADORES? 🖥️"**  
-[![Video Drivers](https://www.youtube.com/watch?v=VziSxt-m8aQ)
+[Video Drivers](https://www.youtube.com/watch?v=VziSxt-m8aQ)
 
 
 ### Sitios Web Oficiales de Fabricantes Comunes:
